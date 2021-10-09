@@ -7,6 +7,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-- Clone websites from bemicode by Travis Do | [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Clone websites from [Bedimcode](https://www.youtube.com/c/Bedimcode) by Travis Do | 
 
 ![halloween](/preview.png)
